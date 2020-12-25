@@ -1,7 +1,7 @@
 pragma solidity ^0.7.4;
 
 contract simpleMapping {
-    
+    // key value pair 
     mapping(uint => bool) public myMapping;
     mapping(address => bool) public myAddressMapping;
     
